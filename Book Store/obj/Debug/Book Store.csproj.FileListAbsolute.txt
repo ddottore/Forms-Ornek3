@@ -1,0 +1,11 @@
+C:\Users\Emir\Desktop\udemy\udemy proje\Book Store\bin\Debug\Book Store.exe.config
+C:\Users\Emir\Desktop\udemy\udemy proje\Book Store\bin\Debug\Book Store.exe
+C:\Users\Emir\Desktop\udemy\udemy proje\Book Store\bin\Debug\Book Store.pdb
+C:\Users\Emir\Desktop\udemy\udemy proje\Book Store\obj\Debug\Book Store.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\udemy\udemy proje\Book Store\obj\Debug\Book Store.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\udemy\udemy proje\Book Store\obj\Debug\Book_Store.Form1.resources
+C:\Users\Emir\Desktop\udemy\udemy proje\Book Store\obj\Debug\Book_Store.Properties.Resources.resources
+C:\Users\Emir\Desktop\udemy\udemy proje\Book Store\obj\Debug\Book Store.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\udemy\udemy proje\Book Store\obj\Debug\Book Store.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\udemy\udemy proje\Book Store\obj\Debug\Book Store.exe
+C:\Users\Emir\Desktop\udemy\udemy proje\Book Store\obj\Debug\Book Store.pdb
